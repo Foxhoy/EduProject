@@ -2,10 +2,10 @@
    background-color: #2c2b2c;
    color:white;
    border-radius: 8px;
-   padding: 3px;
+   padding: 5px;
    border-color: orange;
    margin: 1px;
-   width: 100px;
+   width: 120px;
    cursor: pointer;
    font-weight: 800;
 }
@@ -17,8 +17,8 @@
 }
 .box {
   display: inline-block;
-  width: 40%;
-  height: 60%;
+  width: 55%;
+  height: 80%;
   background-color: rgb(66, 66, 66);
   border: 2px solid orange;
   border-radius: 8px;
