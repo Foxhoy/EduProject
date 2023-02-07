@@ -18,12 +18,12 @@
 }
 .box {
   display: inline-block;
-  width: 70%;
+  width: 60%;
   height: 80%;
   background-color: rgb(66, 66, 66);
   border: 2px solid orange;
   border-radius: 8px;
-  margin: 10px;
+  margin: 5px;
 }
 .picture {
   width: 150px;
